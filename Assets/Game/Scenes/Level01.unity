@@ -279,6 +279,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5390307314ea35942b6c0bd64d0f498b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  crouchSprite: {fileID: 21300000, guid: bd35fa3b066b8a849bca1c29918e2796, type: 3}
+  idleSprite: {fileID: 21300000, guid: df72d97bae32378418e06baa2e1be3ef, type: 3}
 --- !u!114 &30121212
 MonoBehaviour:
   m_ObjectHideFlags: 0
